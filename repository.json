@@ -1,0 +1,5 @@
+{
+    "name": "Liquid Hass.io Add-ons",
+    "url": "http://192.168.1.10:10080/mikjoh/nginx_proxy.git",
+    "maintainer": "Mikael Johansson <mikael@thematrix.se"
+  }
